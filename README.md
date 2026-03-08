@@ -293,9 +293,5 @@ public class SecondActivity extends AppCompatActivity {
 * Click Button → Second Activity
 * Message displayed
 
-```
 
----
 
-✅ If you want, I can also give you a **perfect GitHub-style README.md version (cleaner for exams or notes)** which will look **very professional**.
-```
