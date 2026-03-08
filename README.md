@@ -1,6 +1,3 @@
-Here is the **Markdown (.md) code** of the main content from your PDF so you can paste it directly into a `.md` file.
-
-````md
 # Android Practical Assignments
 
 Source: Practical Details Explanation :contentReference[oaicite:0]{index=0}
@@ -84,7 +81,7 @@ Source: Practical Details Explanation :contentReference[oaicite:0]{index=0}
  </GridLayout>
 
 </LinearLayout>
-````
+```
 
 ---
 
